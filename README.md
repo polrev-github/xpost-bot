@@ -1,5 +1,8 @@
-xpost-bot (Forked for use by /r/Political_Revolution to implement for state-sub crossposting)
+xpost-bot
 =========
+
+###(Forked for use by /r/Political_Revolution to implement for state-sub crossposting)
+
 
 Reddit bot to scan and repost submissions of interest to niche subreddits
 
