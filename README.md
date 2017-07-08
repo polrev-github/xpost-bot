@@ -1,4 +1,4 @@
-xpost-bot
+xpost-bot (Forked for use by /r/Political_Revolution to implement for state-sub crossposting)
 =========
 
 Reddit bot to scan and repost submissions of interest to niche subreddits
@@ -39,9 +39,8 @@ Settings
 TODO
 ----
 
+* Use standardized flair system (State, State abbrev., Known candidates list [yaml file?] etc.) for cross posts
 * Handle connection errors
 * Stop gracefully
 * Add logging messages
-
-<img src="http://makeameme.org/media/created/i-should-write-udvuld.jpg" alt="Sophisticated Cat" title="I should write some tests" />
 
